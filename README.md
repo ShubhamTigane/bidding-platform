@@ -1,7 +1,7 @@
 
 # Real-Time Bidding Platform API
 
-This is a comprehensive RESTful API for a real-time bidding platform, developed using Node.js, Express, Socket.io, and a SQL database (PostgreSQL or MySQL). The API supports advanced CRUD operations, user authentication, role-based access control, real-time bidding, and notifications.
+This is a comprehensive RESTful API for a real-time bidding platform, developed using Node.js, Express, Socket.io, and a SQL database (MySQL). The API supports advanced CRUD operations, user authentication, role-based access control, real-time bidding, and notifications.
 
 
 ## Features
